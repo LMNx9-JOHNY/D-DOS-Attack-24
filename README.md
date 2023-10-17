@@ -2,29 +2,31 @@
 # ⚠️ Use Your Own Risk 🙏
 # ⚠️ Down Any Server ⚠️
 # ⚠️ IP & PORT ⚠️
+![logo](https://github.com/LMNx9-JOHNY/D-DOS-Attack-24/blob/main/received_655062056773177.jpg)
+# Command 👇
 
-Command 👇
+     rm -rf D-DOS-Attack-24
 
-rm -rf D-DOS-Attack-24
+     pkg update && upgrade
 
-pkg update && upgrade
+     pkg install git 
 
-pkg install git 
+     pkg intall python
 
-pkg intall python
-
-pkg install python2
+     pkg install python2
 
 
-git clone https://github.com/LMNx9-JOHNY/D-DOS-Attack-24.git
+     git clone https://github.com/LMNx9-JOHNY/D-DOS-Attack-24.git
 
-cd D-DOS-Attack-24
+     cd D-DOS-Attack-24
 
-python LMNx9_DDOS.py
+     python LMNx9_DDOS.py
 
 
 # wifi jaming 👇
 
-IP:-104.17.254.53
+     IP:-104.17.254.53
 
-PORT:-8080
+     PORT:-8080
+
+# 𝑫𝒂𝒓𝒌-𝑱𝑶𝑯𝑵𝒀
