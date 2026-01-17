@@ -1,5 +1,5 @@
-# LMNxDOS - Ddos Attack Tool
- - A Powerful Tool For Down Any Domain/Server With Termux - 64bit & Secure Connection Need.
+# LMNxDOS - DDOS Attack
+ - A Powerful Tool For Down Any Domain/Server With Multi Method DDOS Attack - 64bit & Secure Connection Need.
 
 <p align="center">
   <img src="https://github.com/LMNx9-JOHNY/D-DOS-Attack-24/raw/refs/heads/main/LMNxDOS.png" alt="LMNxDOS" width="300">
