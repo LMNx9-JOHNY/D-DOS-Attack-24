@@ -1,24 +1,43 @@
-# ⚠️ Down Any Server ⚠️
-# ⚠️ IP & PORT ⚠️
-![logo](https://github.com/LMNx9-JOHNY/D-DOS-Attack-24/blob/main/Screenshot_20240117-033005.png)
-![logo](https://github.com/LMNx9-JOHNY/D-DOS-Attack-24/blob/main/received_655062056773177.jpg)
-# Command 👇
+# LMNxDOS - Ddos Attack Tool
+ - A Powerful Tool For Down Any Domain/Server With Termux - 64bit & Secure Connection Need.
 
-     rm -rf D-DOS-Attack-24
-     pkg update && upgrade
-     pkg install git 
-     pkg intall python
-     pkg install python2
+<p align="center">
+  <img src="https://github.com/LMNx9-JOHNY/D-DOS-Attack-24/raw/refs/heads/main/LMNxDOS.png" alt="LMNxDOS" width="300">
+</p>
 
-     git clone https://github.com/LMNx9-JOHNY/D-DOS-Attack-24.git
-     cd D-DOS-Attack-24
-     python LMNx9-DOS_v2.py
+<div align="center">
 
+✨ **Version**: `v3.0`  
+🔥 **Features**: `Free` | `Fast` | `Powerfull`  
+💻 **Developer**: [DARK LMNx9](https://t.me/x_LMNx9)
 
-# wifi jaming 👇
+</div>
 
-     IP:-104.17.254.53
+---
 
-     PORT:-8080
+```
+dpkg --configure -a
+rm -rf D-DOS-Attack-24
+git clone --depth=1 https://github.com/LMNx9-JOHNY/D-DOS-Attack-24
+cd D-DOS-Attack-24
+chmod +x *
+bash run.sh
+```
 
-# DARK TEAM LMNx9 OFFICIAL 
+---
+
+## 💬 Join Our Community
+<p align="center">
+  <a href="https://t.me/+6hZVa9jGrIY4ZDRl">
+    <img src="https://img.shields.io/badge/Join-Telegram_Group-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+⭐ **Star this repo if you like our project!**  
+🔔 **Stay tuned for more updates!**
+
+</div>
